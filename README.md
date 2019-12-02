@@ -1,5 +1,5 @@
 # adnu-sales-analytics
-Analysis of marketing funnel dataset provided by a fictional organization adnu, the largest department store in Latin American marketplaces. You can find its real life incarnation in OLIST.
+Analysis of marketing funnel dataset provided by a fictional organization adnu, the largest department store in Latin American marketplaces.
 
 ## Objectives
 To answer these questions from analysing the data.
